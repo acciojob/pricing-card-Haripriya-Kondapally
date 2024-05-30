@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#eg2{
+	padding:20px;
+	background-color:red;
+	color:white;
+	border-radius:20px;
+	font-size:30px;
+}
+#eg1{
+	width:150px;
+	height:300px;
+	padding:20px;
+	background-color:whitesmoke;
+	box-shadow:5px 10px 8px 10 px;
+}
+img{
+	width:150px;
+}
